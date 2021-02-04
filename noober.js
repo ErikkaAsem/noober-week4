@@ -43,7 +43,7 @@ for(let i = 0; i < rides.length; i++) {
     <div class="flex">
       <div class="w-1/2">
         <h2 class="text-2xl py-1">${leg.passengerDetails.first} ${leg.passengerDetails.last}</h2>
-        <p class="font-bold text-gray-600">${leg.passengerDetails.phoneNumber}2</p>
+        <p class="font-bold text-gray-600">${leg.passengerDetails.phoneNumber}</p>
       </div>
       <div class="w-1/2 text-right">
         <span class="rounded-xl bg-gray-600 text-white p-2">
